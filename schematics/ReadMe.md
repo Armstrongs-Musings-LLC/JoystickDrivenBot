@@ -1,8 +1,8 @@
 # Arduino Joystick Car Receiver and Transmitter Schematics
 
-![Arduino Joystick Car Receiver](receiver_schematic.png)
+![Arduino Joystick Car Receiver](https://github.com/Armstrongs-Musings-LLC/JoystickDrivenBot/blob/master/schematics/ARDUINO%20JOYSTICK%20RECEIVER%20SCHEMATIC.jpg)
 
-![Arduino Joystick Car Transmitter](transmitter_schematic.png)
+![Arduino Joystick Car Transmitter](https://github.com/Armstrongs-Musings-LLC/JoystickDrivenBot/blob/master/schematics/ARDUINO%20JOYSTICK%20TRANSMITTER%20SCHEMATIC.jpg)
 
 These schematics were created by DIY Builder, a talented maker and enthusiast in the world of electronics and DIY projects. DIY Builder has kindly shared these schematics for the Arduino Joystick Car Receiver and Transmitter with the community.
 
